@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fondoblanoc-min" size="10.000000 13.333333" />
+    <ImageTarget name="20200223_212626-min" size="6.000000 8.000000" />
+    <ImageTarget name="jbojato" size="6.000000 6.000000" />
+  </Tracking>
+</QCARConfig>
